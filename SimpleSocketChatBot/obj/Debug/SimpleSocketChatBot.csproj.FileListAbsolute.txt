@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\bin\Debug\SimpleSocketChatBot.exe.config
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\bin\Debug\SimpleSocketChatBot.exe
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\bin\Debug\SimpleSocketChatBot.pdb
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\obj\Debug\SimpleSocketChatBot.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\obj\Debug\SimpleSocketChatBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\obj\Debug\SimpleSocketChatBot.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\obj\Debug\SimpleSocketChatBot.exe
+C:\Users\babic\source\repos\SimpleSocketChatBot\SimpleSocketChatBot\obj\Debug\SimpleSocketChatBot.pdb
